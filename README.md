@@ -6,9 +6,9 @@ MLT __init__ is a monthly event led by [Jayson](https://www.linkedin.com/in/jays
 # Sessions
 | Date        | Topic                           | Paper                  | Presenter          |
 |-------------|---------------------------------|------------------------|--------------------|
-| 10-Jan-2021 | CV: Separable Convolutions      | Xception               | Jayson Cunanan     |
-| 14-Feb-2021 | CV: Dilated Convolutions + ASPP | DeepLabv2              | Miguel Valverde    |
-| 14-Mar-2021 | CV: Attention in Images         | Squeeze and Excitation | Alisher Abdulkhaev |
+| 10-Jan-2021 | CV: Separable Convolutions      | [Xception](https://arxiv.org/abs/1610.02357)               | Jayson Cunanan     |
+| 14-Feb-2021 | CV: Dilated Convolutions + ASPP | [DeepLabv2](https://arxiv.org/abs/1606.00915)              | Miguel Valverde    |
+| 14-Mar-2021 | CV: Attention in Images         | [Squeeze and Excitation](https://arxiv.org/abs/1709.01507) | Alisher Abdulkhaev |
 
 ## Format
 Introduction (5min) + Paper introduction (25min) + Discussion (60min)

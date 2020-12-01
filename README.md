@@ -6,7 +6,7 @@ MLT \_\_init\_\_ is a monthly event led by [Jayson](https://www.linkedin.com/in/
 # Sessions
 | Date        | Topic                           | Paper                  | Presenter         | Video |
 |-------------|---------------------------------|------------------------|--------------------|---------------------|
-| [10/Jan/2021](https://github.com/Machine-Learning-Tokyo/__init__) | CV: Separable Convolutions      | [Xception](https://arxiv.org/abs/1610.02357)               | [Jayson Cunanan](https://www.linkedin.com/in/jayson-cunanan-phd/)     |  [![Youtube](https://www.youtube.com/s/desktop/a386e432/img/favicon_32.png)](https://youtube.com) |
+| 10/Jan/2021 | CV: Separable Convolutions      | [Xception](https://arxiv.org/abs/1610.02357)               | [Jayson Cunanan](https://www.linkedin.com/in/jayson-cunanan-phd/)     |  ![Youtube](https://www.shareicon.net/data/32x32/2016/07/09/118264_youtube_512x512.png) |
 | 14/Feb/2021 | CV: Dilated Convolutions + ASPP | [DeepLabv2](https://arxiv.org/abs/1606.00915)              | [J. Miguel Valverde](https://www.twitter.com/jmlipman)    |  ![Youtube](https://www.shareicon.net/data/32x32/2016/07/09/118264_youtube_512x512.png) |
 | 14/Mar/2021 | CV: Attention in Images         | [Squeeze and Excitation](https://arxiv.org/abs/1709.01507) | [Alisher Abdulkhaev](https://twitter.com/alisher_ai) |  ![Youtube](https://www.shareicon.net/data/32x32/2016/07/09/118264_youtube_512x512.png) |
 | 11/Apr/2021 | CV: Attention in GANs | [SAGAN](https://arxiv.org/abs/1805.08318) | [Mayank Bhaskar](https://twitter.com/cataluna84) | ![Youtube](https://www.shareicon.net/data/32x32/2016/07/09/118264_youtube_512x512.png) |

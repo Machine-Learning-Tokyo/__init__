@@ -1,5 +1,5 @@
 # Introduction
-MLT \_\_init\_\_ is a monthly event led by [Jayson](https://www.linkedin.com/in/jayson-cunanan-phd/) and [Miguel](https://twitter.com/jmlipman) where, similarly to a traditional journal club, a paper is first presented by a volunteer and then discussed among all attendees. Our goal is to give participants good **initializations** to effectively study and improve their understanding of Deep Learning. We will try to achieve this by:
+MLT \_\_init\_\_ is a monthly event led by [Jayson Cunanan](https://www.linkedin.com/in/jayson-cunanan-phd/) and [Miguel Valverde](https://twitter.com/jmlipman) where, similarly to a traditional journal club, a paper is first presented by a volunteer and then discussed among all attendees. Our goal is to give participants good **initializations** to effectively study and improve their understanding of Deep Learning. We will try to achieve this by:
 * Discussing **fundamental papers**, whose main ideas are currently implemented on state-of-the-art models.
 * Providing the audience with summaries, codes and visualizations to help understand the critical parts of a paper.
 
@@ -26,7 +26,7 @@ The introduction and paper presentation will be recorded (if agreed with the pre
 ## For participants
 As most of the time is allocated for discussion, we kindly ask participants to read the paper in advance and to join the session with at least two questions or comments in mind. These questions/comments can be to highlight interesting or unclear parts. For instance: what did you like the most about this paper? What did you learn? What did you not understand?
 
-To make the session more interactive, participants can also ask questions during the presentation. We encourage everyone to use their microphone, but please keep in mind the environmental noise. If you cannot use your microphone or you want to keep your privacy, you are welcome to write in the Zoom chat or Slack channel, and either Jason or Miguel will read your questions aloud.
+To make the session more interactive, participants can also ask questions during the presentation. We encourage everyone to use their microphone, but please keep in mind the environmental noise. If you cannot use your microphone or you want to keep your privacy, you are welcome to write in the Zoom chat or Slack channel, and either Jayson or Miguel will read your questions aloud.
 
 
 ## For presenters
@@ -35,5 +35,5 @@ Inline with the goals of MLT \_\_init\_\_, we encourage presenters to incorporat
 ## Code of Conduct
 As this event aims to be interactive, please remember to be kind and respectful to each other. Full code of conduct [here](https://mltokyo.ai/about).
 
-## Contact
+## We want your feedback!
 Feedback and contact form: https://forms.gle/jJLWyAMjjVKL8KFRA

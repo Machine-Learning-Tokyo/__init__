@@ -1,5 +1,5 @@
 # Introduction
-MLT \_\_init\_\_ is a monthly event led by [Jayson Cunanan](https://www.linkedin.com/in/jayson-cunanan-phd/) and [Miguel Valverde](https://twitter.com/jmlipman) where, similarly to a traditional journal club, a paper is first presented by a volunteer and then discussed among all attendees. Our goal is to give participants good **initializations** to effectively study and improve their understanding of Deep Learning. We will try to achieve this by:
+MLT \_\_init\_\_ is a monthly event led by [Jayson Cunanan](https://www.linkedin.com/in/jayson-cunanan-phd/) and [J. Miguel Valverde](https://twitter.com/jmlipman) where, similarly to a traditional journal club, a paper is first presented by a volunteer and then discussed among all attendees. Our goal is to give participants good **initializations** to effectively study and improve their understanding of Deep Learning. We will try to achieve this by:
 * Discussing **fundamental papers**, whose main ideas are currently implemented on state-of-the-art models.
 * Providing the audience with summaries, codes and visualizations to help understand the critical parts of a paper.
 

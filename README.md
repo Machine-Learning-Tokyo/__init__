@@ -14,8 +14,7 @@ MLT \_\_init\_\_ is a monthly event led by [Jayson Cunanan](https://www.linkedin
 | 9/May/2021 | NLP: RNN Encoder-Decoder | [RNN Encoder-Decoder](https://arxiv.org/abs/1406.1078) | [Ana Valeria González](https://anavaleriagonzalez.github.io/) | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_05/phrase-rep-3.pdf) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=Er8uAQoy6Sk) |
 | 13/Jun/2021 | NLP: Transformers | [Attention is all you need](https://arxiv.org/abs/1706.03762) | [Charles Melby-Thompson](https://www.linkedin.com/in/charles-melby-thompson/) | [Keynote](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_06/transformers.key) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=F7k8M3xTLzk) |
 | 18/Jul/2021 | CV: Vision Transformers | [An Image is Worth 16x16 Words](https://arxiv.org/abs/2010.11929) | [Joshua Owoyemi](https://toluwajosh.github.io/) | [Slides](session_07/Transformers_for_Image_Recognition_at_Scale_slides.pdf) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=yCEpkEb7mvw)
-
-
+| 15/Aug/2021 | Model Optimization | [Filter Pruning via Geometric Median](https://arxiv.org/abs/1811.00250)              | [J. Miguel Valverde](https://www.twitter.com/jmlipman)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_08/Filter%20Pruning%20via%20Geometric%20Median.pptx) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=k7rVPd_Wvpg) |
 
 
 

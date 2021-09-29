@@ -15,6 +15,7 @@ MLT \_\_init\_\_ is a monthly event led by [Jayson Cunanan](https://www.linkedin
 | 13/Jun/2021 | NLP: Transformers | [Attention is all you need](https://arxiv.org/abs/1706.03762) | [Charles Melby-Thompson](https://www.linkedin.com/in/charles-melby-thompson/) | [Keynote](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_06/transformers.key) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=F7k8M3xTLzk) |
 | 18/Jul/2021 | CV: Vision Transformers | [An Image is Worth 16x16 Words](https://arxiv.org/abs/2010.11929) | [Joshua Owoyemi](https://toluwajosh.github.io/) | [Slides](session_07/Transformers_for_Image_Recognition_at_Scale_slides.pdf) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=yCEpkEb7mvw)
 | 15/Aug/2021 | Model Optimization | [Filter Pruning via Geometric Median](https://arxiv.org/abs/1811.00250)              | [J. Miguel Valverde](https://www.twitter.com/jmlipman)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_08/Filter%20Pruning%20via%20Geometric%20Median.pptx) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=k7rVPd_Wvpg) |
+| 12/Sep/2021 | Knowledge Distillation | [Self-Distillation as Instance-Specific Label Smoothing](https://arxiv.org/abs/2006.05065)              | [Mauricio Orbes](https://www.linkedin.com/in/mauricio-orbes-b13916157/)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_09/SelfDistillation.pdf) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=aeZ7vU9fFdI) |
 
 
 
@@ -32,7 +33,10 @@ To make the session more interactive, participants can also ask questions during
 
 
 ## For presenters
-Inline with the goals of MLT \_\_init\_\_, we encourage presenters to incorporate intuitive visualizations and code in Powerpoint/Slides presentations, Jupyter notebooks (+ Colab), or any other format or platform. If possible, we would like to make this material publicly available in this repository.
+Presenters will prepare a Powerpoint/Keynote presentation that will be shared in this repository after the session. The presentation **should last around 25 mins** so that there is enough time for questions and discussion. Inline with the goals of MLT \_\_init\_\_, we encourage presenters to incorporate intuitive visualizations, code, Jupyter notebooks, Colab, and any other material. Finally, please keep in mind that MLT \_\_init\_\_ audience has a very heterogeneous background.Some ideas for the presentation:
+* Background knowledge required to understand the paper.
+* Motivation of the paper, what is the problem that authors try to solve?
+* Contributions of the paper.
 
 ## Code of Conduct
 As this event aims to be interactive, please remember to be kind and respectful to each other. Full code of conduct [here](https://mltokyo.ai/about).

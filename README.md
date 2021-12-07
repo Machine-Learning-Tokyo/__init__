@@ -7,6 +7,7 @@ MLT \_\_init\_\_ is a monthly event led by [Jayson Cunanan](https://www.linkedin
 
 | Date        | Topic                           | Paper                  | Presenter        | Presentation             | Video |
 |-------------|---------------------------------|------------------------|------------------|--------------------------|--------|
+| 25/Nov/2021 | CV: Image Classification | [ResNet strikes back](https://arxiv.org/abs/2110.00476) | [Ross Wightman](https://github.com/rwightman)    | [Code](https://github.com/rwightman/pytorch-image-models) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://youtu.be/sNiAX2ZCW34) |
 | 17/Oct/2021 | Importance Weighting | [Rethinking Importance Weighting for Deep Learning under Distribution Shift](https://arxiv.org/abs/2006.04662)              | [Nan Lu](https://scholar.google.co.jp/citations?user=KQUQlG4AAAAJ&hl=en)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/raw/main/session_10/MLT_1017.pdf) &#124; [Code](https://github.com/TongtongFANG/DIW) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=UkbkhKIP_PY) |
 | 12/Sep/2021 | Knowledge Distillation | [Self-Distillation as Instance-Specific Label Smoothing](https://arxiv.org/abs/2006.05065)              | [Mauricio Orbes](https://www.linkedin.com/in/mauricio-orbes-b13916157/)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_09/SelfDistillation.pdf) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=aeZ7vU9fFdI) |
 | 15/Aug/2021 | Model Optimization | [Filter Pruning via Geometric Median](https://arxiv.org/abs/1811.00250)              | [J. Miguel Valverde](https://www.twitter.com/jmlipman)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_08/Filter%20Pruning%20via%20Geometric%20Median.pptx) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=k7rVPd_Wvpg) |
@@ -17,10 +18,6 @@ MLT \_\_init\_\_ is a monthly event led by [Jayson Cunanan](https://www.linkedin
 | 14/Mar/2021 | CV: Attention in Images         | [Squeeze and Excitation](https://arxiv.org/abs/1709.01507) | [Alisher Abdulkhaev](https://twitter.com/alisher_ai) | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_03/Squeeze-and-Excitation%20Networks.pdf)  &#124; [PwA](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Squeeze-and-Excitation_Networks.pdf) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=1IYYzglEk0o) |
 | 14/Feb/2021 | CV: Dilated Convolutions + ASPP | [DeepLabv2](https://arxiv.org/abs/1606.00915)              | [J. Miguel Valverde](https://www.twitter.com/jmlipman)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_02/DeepLabv2.pptx) &#124; [Notebook](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_02/DeepLabv2.ipynb) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=HTgvG57JFYw) |
 | 10/Jan/2021 | CV: Separable Convolutions      | [Xception](https://arxiv.org/abs/1610.02357)               | [Jayson Cunanan](https://www.linkedin.com/in/jayson-cunanan-phd/)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_01/Xception.pptx) &#124; [Notebook](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_01/Xception.ipynb) | [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=GIXDyJnFM5w) |
-
-
-
-
 
 
 

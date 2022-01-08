@@ -1,7 +1,9 @@
 # Introduction
 MLT \_\_init\_\_ is a monthly event led by [Jayson Cunanan](https://www.linkedin.com/in/jayson-cunanan-phd/) and [J. Miguel Valverde](https://twitter.com/jmlipman) where, similarly to a traditional journal club, a paper is first presented by a volunteer and then discussed among all attendees. Our goal is to give participants good **initializations** to effectively study and improve their understanding of Deep Learning. We will try to achieve this by:
 * Discussing **fundamental papers**, whose main ideas are currently implemented on state-of-the-art models.
-* Providing the audience with summaries, codes and visualizations to help understand the critical parts of a paper.
+* Discussing recent papers.
+
+
 
 # Sessions
 
@@ -20,20 +22,21 @@ MLT \_\_init\_\_ is a monthly event led by [Jayson Cunanan](https://www.linkedin
 | 14/Feb/2021 | CV: Dilated Convolutions + ASPP | [DeepLabv2](https://arxiv.org/abs/1606.00915)              | [J. Miguel Valverde](https://www.twitter.com/jmlipman)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_02/DeepLabv2.pptx) &#124; [Notebook](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_02/DeepLabv2.ipynb) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=HTgvG57JFYw) |
 | 10/Jan/2021 | CV: Separable Convolutions      | [Xception](https://arxiv.org/abs/1610.02357)               | [Jayson Cunanan](https://www.linkedin.com/in/jayson-cunanan-phd/)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_01/Xception.pptx) &#124; [Notebook](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_01/Xception.ipynb) | [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=GIXDyJnFM5w) |
 
-
-
-
-
-
 Sessions will be held via Zoom starting at 5pm (JST) / 10am (CET). Check at what time is in your region [here](https://www.worldtimebuddy.com/japan-tokyo-to-cet).
 
-## Format
-Introduction (5min) + Paper presentation (25min) + Discussion (60min)
 
-The introduction and paper presentation will be recorded (if agreed with the presenter) whereas the discussion will not be recorded. This format allows participants to interact during the discussion while protecting their privacy.
+## 2021 Summary
+MLT \_\_init\_\_ is worldwide! We had participants from at least 42 countries in all the continents, and, on average, we had around 30-50 people in each of our sessions. Thank you for being part of MLT \_\_init\_\_ 🤗
+![World map 2021](https://raw.githubusercontent.com/Machine-Learning-Tokyo/__init__/main/misc/init_map_2021.png)
+
+
+## Format
+Introduction (5min) + Paper presentation (25min) + Discussion (30min)
+
+We record the introduction and the presentation but not the discussion, allowing participants to interact while protecting their privacy.
 
 ## For participants
-As most of the time is allocated for discussion, we kindly ask participants to read the paper in advance and to join the session with at least two questions or comments in mind. These questions/comments can be to highlight interesting or unclear parts. For instance: what did you like the most about this paper? What did you learn? What did you not understand?
+We kindly ask participants to read the paper in advance and to join the session with questions and comments. These questions/comments can be to highlight interesting or unclear parts. For instance: what did you like the most about this paper? What did you learn? What did you not understand?
 
 To make the session more interactive, participants can also ask questions during the presentation. We encourage everyone to use their microphone, but please keep in mind the environmental noise. If you cannot use your microphone or you want to keep your privacy, you are welcome to write in the Zoom chat or Slack channel, and either Jayson or Miguel will read your questions aloud.
 

@@ -26,7 +26,7 @@ Sessions will be held via Zoom starting at 5pm (JST) / 10am (CET). Check at what
 
 
 ## 2021 Summary
-MLT \_\_init\_\_ is worldwide! On average we had around 30-50 people in each of our sessions, joining from, at least, 42 countries. Thank you for being part of MLT \_\_init\_\_ 🤗
+MLT \_\_init\_\_ is worldwide! On average we had around 30-50 participants in each of our sessions, joining from, at least, 42 countries. The top 5 countries with the highest number of participants were Japan 🇯🇵, India 🇮🇳, United Kingdom 🇬🇧, Germany 🇩🇪, and Finland 🇫🇮. Thank you for being part of MLT \_\_init\_\_ 🤗
 ![World map 2021](https://raw.githubusercontent.com/Machine-Learning-Tokyo/__init__/main/misc/init_map_2021_v2.png)
 
 

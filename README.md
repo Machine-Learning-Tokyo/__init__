@@ -4,11 +4,11 @@ MLT \_\_init\_\_ is a monthly event led by [Jayson Cunanan](https://www.linkedin
 * Discussing recent papers.
 
 
-
 # Sessions
 
 | Date        | Topic                           | Paper                  | Presenter        | Presentation             | Video |
 |-------------|---------------------------------|------------------------|------------------|--------------------------|--------|
+| 24/Mar/2022 | Bayesian Learning | [The Bayesian Learning Rule](https://arxiv.org/abs/2107.04562) | [Mohammad Emtiyaz Khan](https://emtiyaz.github.io/index.html)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_14/Mar24_2022_MLT.pdf) |  [![Youtube](https://www.shareicon.net/data/32x32/2016/07/09/118264_youtube_512x512.png)]()|
 | 26/Jan/2022 | NLP: Zero-shot | [T0](https://arxiv.org/abs/2110.08207) | [Victor Sanh](https://twitter.com/SanhEstPasMoi)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/blob/main/session_13/Talk%20MLT%20-%20Victor%20-%20Jan%2026%202022.pdf) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=RI9Wo2yGGt8)|
 | 19/Dec/2021 | CV: Self-supervised learning | [SimCLR](https://arxiv.org/abs/2002.05709) | [Kartik Sachdev](https://www.linkedin.com/in/kartik-sachdev-7bb581ab/)    | [Slides](https://github.com/Machine-Learning-Tokyo/__init__/raw/main/session_12/SimCLR.pptx) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://www.youtube.com/watch?v=czAWRw5GIq4)|
 | 25/Nov/2021 | CV: Image Classification | [ResNet strikes back](https://arxiv.org/abs/2110.00476) | [Ross Wightman](https://github.com/rwightman)    | [Code](https://github.com/rwightman/pytorch-image-models) |  [![Youtube](https://www.youtube.com/s/desktop/f506bd45/img/favicon_32.png)](https://youtu.be/sNiAX2ZCW34) |
